@@ -1,0 +1,29 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+#wishBtn {
+  background-color: #38f53e;
+  border: none;
+  color: rgb(18, 6, 6);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+  transition-duration: 0.4s;
+}
+
+#wishBtn:hover {
+  background-color: #45a049;
+}
